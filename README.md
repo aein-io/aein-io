@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aein-io&label=Profile%20views&color=0e75b6&style=flat" alt="aein-io" /> </p>
 
-- 🌱 I’m currently learning **C and Web Development**
+- 🌱 I’m currently learning **Web Development and Python**
 
-- 💬 Ask me about **C**
+- 💬 Ask me about **C and Java**
 
 - 📫 How to reach me **aaeinnor11@gmail.com**
 
