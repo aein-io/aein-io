@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aein-io&label=Profile%20views&color=0e75b6&style=flat" alt="aein-io" /> </p>
 
-- 🌱 I’m currently learning **Web Development and Python**
+- 🌱 I’m currently learning **Web development**
 
-- 💬 Ask me about **C and Java**
+- 💬 Ask me about **C, Java, Python, Next.js, React**
 
-- 📫 How to reach me **aaeinnor11@gmail.com**
+- 📫 How to reach me **aeinnor.reyes@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
