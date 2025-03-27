@@ -2,8 +2,6 @@
 <h3 align="center">Forever a beginner :></h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/87/df/6d/87df6d60f4cc3c07968ae2127bddcc30.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aein-io&label=Profile%20views&color=0e75b6&style=flat" alt="aein-io" /> </p>
-
 - 🌱 I’m currently learning **Web development**
 
 - 💬 Ask me about **C, Java, Python, Next.js, React**
